@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "th2b1"
+    }
+  },
+  "defaultProject": "th2b1",
+  "cli": {
+    "analytics": "236147ae-521a-41aa-84c5-59620c208488"
+  }
 }
